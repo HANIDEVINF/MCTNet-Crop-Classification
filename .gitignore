@@ -1,0 +1,10 @@
+data/*.csv
+data/**/*.csv
+*.csv
+!docs/**/*.csv
+.ipynb_checkpoints/
+__pycache__/
+.env
+*.h5
+*.keras
+*.zip

@@ -1,0 +1,12 @@
+# Versions are not pinned (notebooks were run on Google Colab).
+# Run `pip freeze` in your environment to pin exact versions.
+tensorflow>=2.15
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+# Notebooks 01-02 only (Google Earth Engine):
+earthengine-api
+geemap
